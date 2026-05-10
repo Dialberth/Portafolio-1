@@ -23,7 +23,7 @@ Organización de archivos HTML y estructura semántica
 
 ### Tecnologías utilizadas
 HTML5
-CSS3
+CS3
 
 ### Próximas mejoras
 Pienso seguir trabajando en algunas mejoras como:
